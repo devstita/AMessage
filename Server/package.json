@@ -13,7 +13,7 @@
   "author": "Devta",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.18.2",
     "firebase-admin": "^6.0.0",
     "socket.io": "^2.4.0"
   },
